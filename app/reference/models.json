@@ -1,0 +1,1658 @@
+{
+ "brands": [
+  "Audi",
+  "BMW",
+  "BYD",
+  "Citroen",
+  "Honda",
+  "Hyundai",
+  "Jaguar",
+  "Jeep",
+  "Kia",
+  "Land Rover",
+  "Mahindra",
+  "Maruti Suzuki",
+  "Mercedes Benz",
+  "Morris Garrages (MG)",
+  "Nissan",
+  "Renault",
+  "Skoda",
+  "Tata Motors",
+  "Toyota",
+  "Vin Fast",
+  "Volkswagen",
+  "Volvo"
+ ],
+ "models": [
+  {
+   "name": "A4",
+   "brand": "Audi",
+   "e5_codes": [
+    "109"
+   ],
+   "names": [
+    "A4"
+   ]
+  },
+  {
+   "name": "A6",
+   "brand": "Audi",
+   "e5_codes": [
+    "110"
+   ],
+   "names": [
+    "A6"
+   ]
+  },
+  {
+   "name": "A8",
+   "brand": "Audi",
+   "e5_codes": [
+    "112_4"
+   ],
+   "names": [
+    "A8"
+   ]
+  },
+  {
+   "name": "Q3/ Q3 Sportsback",
+   "brand": "Audi",
+   "e5_codes": [
+    "111"
+   ],
+   "names": [
+    "Q3/ Q3 Sportsback"
+   ]
+  },
+  {
+   "name": "Q5",
+   "brand": "Audi",
+   "e5_codes": [
+    "112_1"
+   ],
+   "names": [
+    "Q5"
+   ]
+  },
+  {
+   "name": "Q7",
+   "brand": "Audi",
+   "e5_codes": [
+    "112"
+   ],
+   "names": [
+    "Q7"
+   ]
+  },
+  {
+   "name": "Q8",
+   "brand": "Audi",
+   "e5_codes": [
+    "112_2"
+   ],
+   "names": [
+    "Q8"
+   ]
+  },
+  {
+   "name": "Q8 e-Tron",
+   "brand": "Audi",
+   "e5_codes": [
+    "112_6"
+   ],
+   "names": [
+    "Q8 e-Tron"
+   ]
+  },
+  {
+   "name": "RS Q8",
+   "brand": "Audi",
+   "e5_codes": [
+    "112_3"
+   ],
+   "names": [
+    "RS Q8"
+   ]
+  },
+  {
+   "name": "RS e-Tron",
+   "brand": "Audi",
+   "e5_codes": [
+    "112_5"
+   ],
+   "names": [
+    "RS e-Tron"
+   ]
+  },
+  {
+   "name": "2 Series",
+   "brand": "BMW",
+   "e5_codes": [
+    "91_2"
+   ],
+   "names": [
+    "2 Series"
+   ]
+  },
+  {
+   "name": "3 Series/ 3 Series Long Wheelbase",
+   "brand": "BMW",
+   "e5_codes": [
+    "87"
+   ],
+   "names": [
+    "3 Series/ 3 Series Long Wheelbase"
+   ]
+  },
+  {
+   "name": "5 Series",
+   "brand": "BMW",
+   "e5_codes": [
+    "88"
+   ],
+   "names": [
+    "5 Series"
+   ]
+  },
+  {
+   "name": "7 Series",
+   "brand": "BMW",
+   "e5_codes": [
+    "91_1"
+   ],
+   "names": [
+    "7 Series"
+   ]
+  },
+  {
+   "name": "Ix1",
+   "brand": "BMW",
+   "e5_codes": [
+    "91"
+   ],
+   "names": [
+    "Ix1"
+   ]
+  },
+  {
+   "name": "X1",
+   "brand": "BMW",
+   "e5_codes": [
+    "89"
+   ],
+   "names": [
+    "X1"
+   ]
+  },
+  {
+   "name": "X5",
+   "brand": "BMW",
+   "e5_codes": [
+    "90"
+   ],
+   "names": [
+    "X5"
+   ]
+  },
+  {
+   "name": "Atto 3",
+   "brand": "BYD",
+   "e5_codes": [
+    "105"
+   ],
+   "names": [
+    "Atto 3"
+   ]
+  },
+  {
+   "name": "Seal",
+   "brand": "BYD",
+   "e5_codes": [
+    "106"
+   ],
+   "names": [
+    "Seal"
+   ]
+  },
+  {
+   "name": "Sealion 7",
+   "brand": "BYD",
+   "e5_codes": [
+    "107"
+   ],
+   "names": [
+    "Sealion 7"
+   ]
+  },
+  {
+   "name": "eMax 7",
+   "brand": "BYD",
+   "e5_codes": [
+    "108"
+   ],
+   "names": [
+    "eMax 7"
+   ]
+  },
+  {
+   "name": "Basalt",
+   "brand": "Citroen",
+   "e5_codes": [
+    "80"
+   ],
+   "names": [
+    "Basalt"
+   ]
+  },
+  {
+   "name": "C3",
+   "brand": "Citroen",
+   "e5_codes": [
+    "77"
+   ],
+   "names": [
+    "C3",
+    "C3 CNG"
+   ]
+  },
+  {
+   "name": "C3 Aircross",
+   "brand": "Citroen",
+   "e5_codes": [
+    "79"
+   ],
+   "names": [
+    "Aircross X"
+   ]
+  },
+  {
+   "name": "C5 Aircross",
+   "brand": "Citroen",
+   "e5_codes": [
+    "81"
+   ],
+   "names": [
+    "C5 Aircross"
+   ]
+  },
+  {
+   "name": "eC3",
+   "brand": "Citroen",
+   "e5_codes": [
+    "78"
+   ],
+   "names": [
+    "eC3"
+   ]
+  },
+  {
+   "name": "Amaze",
+   "brand": "Honda",
+   "e5_codes": [
+    "102"
+   ],
+   "names": [
+    "Amaze"
+   ]
+  },
+  {
+   "name": "City",
+   "brand": "Honda",
+   "e5_codes": [
+    "101"
+   ],
+   "names": [
+    "Honda City"
+   ]
+  },
+  {
+   "name": "City e:HEV/ City Strong Hybrid",
+   "brand": "Honda",
+   "e5_codes": [
+    "104"
+   ],
+   "names": [
+    "City e:HEV/ City Strong Hybrid"
+   ]
+  },
+  {
+   "name": "Elevate",
+   "brand": "Honda",
+   "e5_codes": [
+    "103"
+   ],
+   "names": [
+    "Elevate"
+   ]
+  },
+  {
+   "name": "Jazz",
+   "brand": "Honda",
+   "e5_codes": [
+    "104_2"
+   ],
+   "names": [
+    "Jazz"
+   ]
+  },
+  {
+   "name": "WR-V",
+   "brand": "Honda",
+   "e5_codes": [
+    "104_1"
+   ],
+   "names": [
+    "WR-V"
+   ]
+  },
+  {
+   "name": "Alcazar",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "48"
+   ],
+   "names": [
+    "Alcazar"
+   ]
+  },
+  {
+   "name": "Aura",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "51"
+   ],
+   "names": [
+    "Aura",
+    "Aura CNG"
+   ]
+  },
+  {
+   "name": "Creta",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "47"
+   ],
+   "names": [
+    "Creta"
+   ]
+  },
+  {
+   "name": "Creta EV",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "49"
+   ],
+   "names": [
+    "Creta EV"
+   ]
+  },
+  {
+   "name": "Exter",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "46"
+   ],
+   "names": [
+    "Exter",
+    "Exter CNG"
+   ]
+  },
+  {
+   "name": "Grand i10 NIOS",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "54"
+   ],
+   "names": [
+    "Grand i10 NIOS",
+    "Grand i10 NIOS CNG"
+   ]
+  },
+  {
+   "name": "Ioniq 5",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "53"
+   ],
+   "names": [
+    "Ioniq 5"
+   ]
+  },
+  {
+   "name": "Kona EV",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "54_2"
+   ],
+   "names": [
+    "Kona EV"
+   ]
+  },
+  {
+   "name": "Tucson",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "54_1"
+   ],
+   "names": [
+    "Tucson"
+   ]
+  },
+  {
+   "name": "Venue",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "45"
+   ],
+   "names": [
+    "Venue"
+   ]
+  },
+  {
+   "name": "Verna",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "52"
+   ],
+   "names": [
+    "Verna"
+   ]
+  },
+  {
+   "name": "i20",
+   "brand": "Hyundai",
+   "e5_codes": [
+    "50"
+   ],
+   "names": [
+    "i20"
+   ]
+  },
+  {
+   "name": "F-Pace",
+   "brand": "Jaguar",
+   "e5_codes": [
+    "125"
+   ],
+   "names": [
+    "F-Pace"
+   ]
+  },
+  {
+   "name": "I-Pace",
+   "brand": "Jaguar",
+   "e5_codes": [
+    "125_1"
+   ],
+   "names": [
+    "I-Pace"
+   ]
+  },
+  {
+   "name": "Compass",
+   "brand": "Jeep",
+   "e5_codes": [
+    "123"
+   ],
+   "names": [
+    "Compass"
+   ]
+  },
+  {
+   "name": "Grand Cherokee",
+   "brand": "Jeep",
+   "e5_codes": [
+    "124_2"
+   ],
+   "names": [
+    "Grand Cherokee"
+   ]
+  },
+  {
+   "name": "Meridian",
+   "brand": "Jeep",
+   "e5_codes": [
+    "124"
+   ],
+   "names": [
+    "Meridian"
+   ]
+  },
+  {
+   "name": "Wrangler",
+   "brand": "Jeep",
+   "e5_codes": [
+    "124_1"
+   ],
+   "names": [
+    "Wrangler"
+   ]
+  },
+  {
+   "name": "Carens",
+   "brand": "Kia",
+   "e5_codes": [
+    "61_1"
+   ],
+   "names": [
+    "Carens"
+   ]
+  },
+  {
+   "name": "Carens Clavis",
+   "brand": "Kia",
+   "e5_codes": [
+    "58"
+   ],
+   "names": [
+    "Carens Clavis"
+   ]
+  },
+  {
+   "name": "Carens Clavis EV",
+   "brand": "Kia",
+   "e5_codes": [
+    "57"
+   ],
+   "names": [
+    "Carens Clavis EV"
+   ]
+  },
+  {
+   "name": "Carnival",
+   "brand": "Kia",
+   "e5_codes": [
+    "59"
+   ],
+   "names": [
+    "Carnival"
+   ]
+  },
+  {
+   "name": "EV6",
+   "brand": "Kia",
+   "e5_codes": [
+    "61"
+   ],
+   "names": [
+    "EV6"
+   ]
+  },
+  {
+   "name": "EV9",
+   "brand": "Kia",
+   "e5_codes": [
+    "61_2"
+   ],
+   "names": [
+    "EV9"
+   ]
+  },
+  {
+   "name": "Seltos",
+   "brand": "Kia",
+   "e5_codes": [
+    "55"
+   ],
+   "names": [
+    "Seltos"
+   ]
+  },
+  {
+   "name": "Sonet",
+   "brand": "Kia",
+   "e5_codes": [
+    "56"
+   ],
+   "names": [
+    "Sonet"
+   ]
+  },
+  {
+   "name": "Syros",
+   "brand": "Kia",
+   "e5_codes": [
+    "60"
+   ],
+   "names": [
+    "Syros"
+   ]
+  },
+  {
+   "name": "Defender",
+   "brand": "Land Rover",
+   "e5_codes": [
+    "96"
+   ],
+   "names": [
+    "Defender"
+   ]
+  },
+  {
+   "name": "Range Rover",
+   "brand": "Land Rover",
+   "e5_codes": [
+    "92"
+   ],
+   "names": [
+    "Range Rover"
+   ]
+  },
+  {
+   "name": "Range Rover Evoque",
+   "brand": "Land Rover",
+   "e5_codes": [
+    "95"
+   ],
+   "names": [
+    "Range Rover Evoque"
+   ]
+  },
+  {
+   "name": "Range Rover Sport",
+   "brand": "Land Rover",
+   "e5_codes": [
+    "93"
+   ],
+   "names": [
+    "Range Rover Sport"
+   ]
+  },
+  {
+   "name": "Range Rover Velar",
+   "brand": "Land Rover",
+   "e5_codes": [
+    "94"
+   ],
+   "names": [
+    "Range Rover Velar"
+   ]
+  },
+  {
+   "name": "BE 6",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "43"
+   ],
+   "names": [
+    "BE 6"
+   ]
+  },
+  {
+   "name": "Bolero",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "40"
+   ],
+   "names": [
+    "Bolero"
+   ]
+  },
+  {
+   "name": "Bolero Neo/ Bolero Neo Plus",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "38",
+    "39"
+   ],
+   "names": [
+    "Bolero Neo/ Bolero Neo Plus"
+   ]
+  },
+  {
+   "name": "KUV 100",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "44_3"
+   ],
+   "names": [
+    "KUV 100"
+   ]
+  },
+  {
+   "name": "Marazzo",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "44_1"
+   ],
+   "names": [
+    "Marazzo"
+   ]
+  },
+  {
+   "name": "Scorpio N/ Scorpio Classic",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "35",
+    "37"
+   ],
+   "names": [
+    "Scorpio N/ Scorpio Classic"
+   ]
+  },
+  {
+   "name": "Thar/Thar Roxx",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "33",
+    "36"
+   ],
+   "names": [
+    "Thar/Thar Roxx"
+   ]
+  },
+  {
+   "name": "XEV 9E",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "44"
+   ],
+   "names": [
+    "XEV 9E"
+   ]
+  },
+  {
+   "name": "XEV 9S",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "44_2"
+   ],
+   "names": [
+    "XEV 9S"
+   ]
+  },
+  {
+   "name": "XUV 3XO",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "34"
+   ],
+   "names": [
+    "XUV 3XO"
+   ]
+  },
+  {
+   "name": "XUV 400",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "41"
+   ],
+   "names": [
+    "XUV 400"
+   ]
+  },
+  {
+   "name": "XUV 700",
+   "brand": "Mahindra",
+   "e5_codes": [
+    "42"
+   ],
+   "names": [
+    "XUV 700"
+   ]
+  },
+  {
+   "name": "Alto",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "1"
+   ],
+   "names": [
+    "Alto",
+    "Alto CNG"
+   ]
+  },
+  {
+   "name": "Baleno",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "7"
+   ],
+   "names": [
+    "Baleno",
+    "Baleno CNG"
+   ]
+  },
+  {
+   "name": "Brezza",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "8"
+   ],
+   "names": [
+    "Brezza",
+    "Brezza CNG"
+   ]
+  },
+  {
+   "name": "Celerio",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "3"
+   ],
+   "names": [
+    "Celerio",
+    "Celerio CNG"
+   ]
+  },
+  {
+   "name": "Ciaz",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "17_1"
+   ],
+   "names": [
+    "Ciaz"
+   ]
+  },
+  {
+   "name": "Dzire",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "6"
+   ],
+   "names": [
+    "Dzire",
+    "Dzire CNG"
+   ]
+  },
+  {
+   "name": "E-Vitara",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "17"
+   ],
+   "names": [
+    "E-Vitara"
+   ]
+  },
+  {
+   "name": "Eeco",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "14"
+   ],
+   "names": [
+    "Eeco",
+    "Eeco CNG"
+   ]
+  },
+  {
+   "name": "Ertiga",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "11"
+   ],
+   "names": [
+    "Ertiga",
+    "Ertiga CNG"
+   ]
+  },
+  {
+   "name": "Fronx",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "12"
+   ],
+   "names": [
+    "Fronx",
+    "Fronx CNG"
+   ]
+  },
+  {
+   "name": "Grand Vitara",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "9"
+   ],
+   "names": [
+    "Grand Vitara",
+    "Grand Vitara CNG"
+   ]
+  },
+  {
+   "name": "Ignis",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "16"
+   ],
+   "names": [
+    "Ignis"
+   ]
+  },
+  {
+   "name": "Invicto",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "13"
+   ],
+   "names": [
+    "Invicto"
+   ]
+  },
+  {
+   "name": "Jimny",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "10"
+   ],
+   "names": [
+    "Jimny"
+   ]
+  },
+  {
+   "name": "S-Cross",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "17_2"
+   ],
+   "names": [
+    "S-Cross"
+   ]
+  },
+  {
+   "name": "S-Presso",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "4"
+   ],
+   "names": [
+    "S-Presso",
+    "S-Presso CNG"
+   ]
+  },
+  {
+   "name": "Swift",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "5"
+   ],
+   "names": [
+    "Swift",
+    "Swift CNG"
+   ]
+  },
+  {
+   "name": "Victoris",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "15"
+   ],
+   "names": [
+    "Victoris",
+    "Victoris CNG"
+   ]
+  },
+  {
+   "name": "Wagon R",
+   "brand": "Maruti Suzuki",
+   "e5_codes": [
+    "2"
+   ],
+   "names": [
+    "Wagon R",
+    "Wagon R CNG"
+   ]
+  },
+  {
+   "name": "A Class Limousine",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "86_1"
+   ],
+   "names": [
+    "A Class Limousine"
+   ]
+  },
+  {
+   "name": "C-Class",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "82"
+   ],
+   "names": [
+    "C-Class"
+   ]
+  },
+  {
+   "name": "E-Class",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "83"
+   ],
+   "names": [
+    "E-Class"
+   ]
+  },
+  {
+   "name": "EQS SUV",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "86"
+   ],
+   "names": [
+    "EQS SUV"
+   ]
+  },
+  {
+   "name": "G- Wagon",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "86_6"
+   ],
+   "names": [
+    "G- Wagon"
+   ]
+  },
+  {
+   "name": "G-Class",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "86_4"
+   ],
+   "names": [
+    "G-Class"
+   ]
+  },
+  {
+   "name": "GLC",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "84"
+   ],
+   "names": [
+    "GLC"
+   ]
+  },
+  {
+   "name": "GLE",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "85"
+   ],
+   "names": [
+    "GLE"
+   ]
+  },
+  {
+   "name": "GLS",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "86_5"
+   ],
+   "names": [
+    "GLS"
+   ]
+  },
+  {
+   "name": "Mercedes-Maybach GLS",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "86_3"
+   ],
+   "names": [
+    "Mercedes-Maybach GLS"
+   ]
+  },
+  {
+   "name": "S- Class",
+   "brand": "Mercedes Benz",
+   "e5_codes": [
+    "86_2"
+   ],
+   "names": [
+    "S- Class"
+   ]
+  },
+  {
+   "name": "Astor",
+   "brand": "Morris Garrages (MG)",
+   "e5_codes": [
+    "74"
+   ],
+   "names": [
+    "Astor"
+   ]
+  },
+  {
+   "name": "Comet EV",
+   "brand": "Morris Garrages (MG)",
+   "e5_codes": [
+    "70"
+   ],
+   "names": [
+    "Comet EV"
+   ]
+  },
+  {
+   "name": "Gloster",
+   "brand": "Morris Garrages (MG)",
+   "e5_codes": [
+    "75"
+   ],
+   "names": [
+    "Gloster"
+   ]
+  },
+  {
+   "name": "Hector/ Hector +",
+   "brand": "Morris Garrages (MG)",
+   "e5_codes": [
+    "72"
+   ],
+   "names": [
+    "Hector/ Hector +"
+   ]
+  },
+  {
+   "name": "M9",
+   "brand": "Morris Garrages (MG)",
+   "e5_codes": [
+    "76_1"
+   ],
+   "names": [
+    "M9"
+   ]
+  },
+  {
+   "name": "Majestor",
+   "brand": "Morris Garrages (MG)",
+   "e5_codes": [
+    "76"
+   ],
+   "names": [
+    "Majestor"
+   ]
+  },
+  {
+   "name": "Windsor EV",
+   "brand": "Morris Garrages (MG)",
+   "e5_codes": [
+    "71"
+   ],
+   "names": [
+    "Windsor EV"
+   ]
+  },
+  {
+   "name": "ZS EV",
+   "brand": "Morris Garrages (MG)",
+   "e5_codes": [
+    "73"
+   ],
+   "names": [
+    "ZS EV"
+   ]
+  },
+  {
+   "name": "Kicks",
+   "brand": "Nissan",
+   "e5_codes": [
+    "126_1"
+   ],
+   "names": [
+    "Kicks"
+   ]
+  },
+  {
+   "name": "Magnite",
+   "brand": "Nissan",
+   "e5_codes": [
+    "126"
+   ],
+   "names": [
+    "Magnite"
+   ]
+  },
+  {
+   "name": "Duster",
+   "brand": "Renault",
+   "e5_codes": [
+    "118_1"
+   ],
+   "names": [
+    "Duster"
+   ]
+  },
+  {
+   "name": "Kiger",
+   "brand": "Renault",
+   "e5_codes": [
+    "118"
+   ],
+   "names": [
+    "Kiger"
+   ]
+  },
+  {
+   "name": "Kwid",
+   "brand": "Renault",
+   "e5_codes": [
+    "116"
+   ],
+   "names": [
+    "Kwid"
+   ]
+  },
+  {
+   "name": "Triber",
+   "brand": "Renault",
+   "e5_codes": [
+    "117"
+   ],
+   "names": [
+    "Triber"
+   ]
+  },
+  {
+   "name": "Kodiaq",
+   "brand": "Skoda",
+   "e5_codes": [
+    "98"
+   ],
+   "names": [
+    "Kodiaq"
+   ]
+  },
+  {
+   "name": "Kushaq",
+   "brand": "Skoda",
+   "e5_codes": [
+    "97"
+   ],
+   "names": [
+    "Kushaq"
+   ]
+  },
+  {
+   "name": "Kylaq",
+   "brand": "Skoda",
+   "e5_codes": [
+    "100"
+   ],
+   "names": [
+    "Kylaq"
+   ]
+  },
+  {
+   "name": "Octavia",
+   "brand": "Skoda",
+   "e5_codes": [
+    "100_1"
+   ],
+   "names": [
+    "Octavia"
+   ]
+  },
+  {
+   "name": "Slavia",
+   "brand": "Skoda",
+   "e5_codes": [
+    "99"
+   ],
+   "names": [
+    "Slavia"
+   ]
+  },
+  {
+   "name": "Superb",
+   "brand": "Skoda",
+   "e5_codes": [
+    "100_2"
+   ],
+   "names": [
+    "Superb"
+   ]
+  },
+  {
+   "name": "Altroz",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "22"
+   ],
+   "names": [
+    "Altroz",
+    "Altroz CNG"
+   ]
+  },
+  {
+   "name": "Curvv",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "31"
+   ],
+   "names": [
+    "Curvv"
+   ]
+  },
+  {
+   "name": "Curvv.EV",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "32"
+   ],
+   "names": [
+    "Curvv.EV"
+   ]
+  },
+  {
+   "name": "Harrier",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "25"
+   ],
+   "names": [
+    "Harrier"
+   ]
+  },
+  {
+   "name": "Harrier.EV",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "26"
+   ],
+   "names": [
+    "Harrier.EV"
+   ]
+  },
+  {
+   "name": "Nexon",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "23"
+   ],
+   "names": [
+    "Nexon",
+    "Nexon CNG"
+   ]
+  },
+  {
+   "name": "Nexon.EV",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "24"
+   ],
+   "names": [
+    "Nexon.EV"
+   ]
+  },
+  {
+   "name": "Punch",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "29"
+   ],
+   "names": [
+    "Punch",
+    "Punch CNG"
+   ]
+  },
+  {
+   "name": "Punch.EV",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "30"
+   ],
+   "names": [
+    "Punch.EV"
+   ]
+  },
+  {
+   "name": "Safari",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "27"
+   ],
+   "names": [
+    "Safari"
+   ]
+  },
+  {
+   "name": "Sierra",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "28"
+   ],
+   "names": [
+    "Sierra"
+   ]
+  },
+  {
+   "name": "Tiago",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "18"
+   ],
+   "names": [
+    "Tiago",
+    "Tiago CNG"
+   ]
+  },
+  {
+   "name": "Tiago.EV",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "19"
+   ],
+   "names": [
+    "Tiago.EV"
+   ]
+  },
+  {
+   "name": "Tigor",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "20"
+   ],
+   "names": [
+    "Tigor",
+    "Tigor CNG"
+   ]
+  },
+  {
+   "name": "Tigor.EV",
+   "brand": "Tata Motors",
+   "e5_codes": [
+    "21"
+   ],
+   "names": [
+    "Tigor.EV"
+   ]
+  },
+  {
+   "name": "Camry",
+   "brand": "Toyota",
+   "e5_codes": [
+    "68"
+   ],
+   "names": [
+    "Camry"
+   ]
+  },
+  {
+   "name": "Fortuner",
+   "brand": "Toyota",
+   "e5_codes": [
+    "67"
+   ],
+   "names": [
+    "Fortuner"
+   ]
+  },
+  {
+   "name": "Glanza",
+   "brand": "Toyota",
+   "e5_codes": [
+    "62"
+   ],
+   "names": [
+    "Glanza",
+    "Glanza CNG"
+   ]
+  },
+  {
+   "name": "Innova Crysta/ Innova Hycross",
+   "brand": "Toyota",
+   "e5_codes": [
+    "65",
+    "66"
+   ],
+   "names": [
+    "Innova Crysta/ Innova Hycross"
+   ]
+  },
+  {
+   "name": "Land Cruiser",
+   "brand": "Toyota",
+   "e5_codes": [
+    "69_1"
+   ],
+   "names": [
+    "Land Cruiser"
+   ]
+  },
+  {
+   "name": "Rumion",
+   "brand": "Toyota",
+   "e5_codes": [
+    "69"
+   ],
+   "names": [
+    "Rumion",
+    "Rumion CNG"
+   ]
+  },
+  {
+   "name": "Urban Cruiser Hyryder",
+   "brand": "Toyota",
+   "e5_codes": [
+    "64"
+   ],
+   "names": [
+    "Urban Cruiser Hyryder",
+    "Urban Cruiser Hyryder CNG"
+   ]
+  },
+  {
+   "name": "Urban Cruiser Taisor",
+   "brand": "Toyota",
+   "e5_codes": [
+    "63"
+   ],
+   "names": [
+    "Urban Cruiser Taisor",
+    "Urban Cruiser Taisor CNG"
+   ]
+  },
+  {
+   "name": "VF6",
+   "brand": "Vin Fast",
+   "e5_codes": [
+    "121"
+   ],
+   "names": [
+    "VF6"
+   ]
+  },
+  {
+   "name": "VF7",
+   "brand": "Vin Fast",
+   "e5_codes": [
+    "122"
+   ],
+   "names": [
+    "VF7"
+   ]
+  },
+  {
+   "name": "Taigun",
+   "brand": "Volkswagen",
+   "e5_codes": [
+    "114"
+   ],
+   "names": [
+    "Taigun"
+   ]
+  },
+  {
+   "name": "Tayron R-Line",
+   "brand": "Volkswagen",
+   "e5_codes": [
+    "115_1"
+   ],
+   "names": [
+    "Tayron R-Line"
+   ]
+  },
+  {
+   "name": "Tiguan",
+   "brand": "Volkswagen",
+   "e5_codes": [
+    "113"
+   ],
+   "names": [
+    "Tiguan R-Line"
+   ]
+  },
+  {
+   "name": "Virtus",
+   "brand": "Volkswagen",
+   "e5_codes": [
+    "115"
+   ],
+   "names": [
+    "Virtus"
+   ]
+  },
+  {
+   "name": "EC30",
+   "brand": "Volvo",
+   "e5_codes": [
+    "120_1"
+   ],
+   "names": [
+    "EC30"
+   ]
+  },
+  {
+   "name": "EC40",
+   "brand": "Volvo",
+   "e5_codes": [
+    "120_3"
+   ],
+   "names": [
+    "EC40"
+   ]
+  },
+  {
+   "name": "EX40",
+   "brand": "Volvo",
+   "e5_codes": [
+    "120_2"
+   ],
+   "names": [
+    "EX40"
+   ]
+  },
+  {
+   "name": "XC60",
+   "brand": "Volvo",
+   "e5_codes": [
+    "119"
+   ],
+   "names": [
+    "XC60"
+   ]
+  },
+  {
+   "name": "XC90",
+   "brand": "Volvo",
+   "e5_codes": [
+    "120"
+   ],
+   "names": [
+    "XC90"
+   ]
+  }
+ ]
+}
